@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://take917.github.io/csb-dh8vu/static/js/main.5d12bf6a.chunk.js",
+    "main.js.map": "https://take917.github.io/csb-dh8vu/static/js/main.5d12bf6a.chunk.js.map",
+    "runtime-main.js": "https://take917.github.io/csb-dh8vu/static/js/runtime-main.c5f87e77.js",
+    "runtime-main.js.map": "https://take917.github.io/csb-dh8vu/static/js/runtime-main.c5f87e77.js.map",
+    "static/js/2.747b2947.chunk.js": "https://take917.github.io/csb-dh8vu/static/js/2.747b2947.chunk.js",
+    "static/js/2.747b2947.chunk.js.map": "https://take917.github.io/csb-dh8vu/static/js/2.747b2947.chunk.js.map",
+    "index.html": "https://take917.github.io/csb-dh8vu/index.html",
+    "static/js/2.747b2947.chunk.js.LICENSE.txt": "https://take917.github.io/csb-dh8vu/static/js/2.747b2947.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5f87e77.js",
+    "static/js/2.747b2947.chunk.js",
+    "static/js/main.5d12bf6a.chunk.js"
+  ]
+}
